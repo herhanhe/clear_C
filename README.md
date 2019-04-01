@@ -41,3 +41,23 @@ chap02:专注于显示
 	      scanf 函数
 	      strlen 函数
 	      CLOCKS_PER_SEC
+chap03:猜拳游戏
+	内容：*switch语句
+	      *char型
+	      *条件运算符和条件表达式
+	      *特定范围内的数值的读取
+	      *字符编码
+	      *包含汉字的字符串
+	      *宽字符
+	      *通过指针来遍历字符串
+	      *字符串数组（二维数组/指针数组）
+	      *函数
+	      *标识符的作用域
+	      wchar_t型
+	      isprint函数
+	      CHAR_BIT
+	      CHAR_MAX
+	      CHAR_MIN
+              SCHAR_MAX
+              SCHAR_MIN
+              UCHAR_MAX
