@@ -61,3 +61,25 @@ chap03:猜拳游戏
               SCHAR_MAX
               SCHAR_MIN
               UCHAR_MAX
+chap04:珠玑妙算
+	内容：*生成不重复的随机数
+	      *检查数组内的重复元素
+	      *将数值作为字符串来读取
+	      *判断字符类型
+	      *数字字符的性质
+	      *数字字符的整数值的相互转换
+	      *作为函数参数的指针
+	      atof函数
+	      atoi函数
+	      atol函数
+	      isalnum函数
+	      isalpha函数
+	      iscntrl函数
+	      isdigit函数
+	      isgraph函数
+	      islower函数
+	      isprint函数
+	      ispunct函数
+	      isspace函数
+	      isupper函数
+	      isxdigit函数
