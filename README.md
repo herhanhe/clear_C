@@ -83,3 +83,17 @@ chap04:珠玑妙算
 	      isspace函数
 	      isupper函数
 	      isxdigit函数
+chap05:记忆力训练
+	内容：*整数型的表示范围
+		  *如何处理不依赖编程环境的英文字符
+		  *通过符号字符显示条形图（横向和纵向）
+		  *比较字符串
+		  *相邻的字符串常量
+		  *数组元素的循环利用
+		  *存储空间的动态分配与释放
+		  size_t型
+		  calloc函数
+		  free函数
+		  malloc函数
+		  strcmp函数
+		  strncmp函数
