@@ -97,3 +97,27 @@ chap05:记忆力训练
 		  malloc函数
 		  strcmp函数
 		  strncmp函数
+chap06:日历
+	内容：*日历时间和分解时间
+		  *获取当前日期和时间
+		  *通过当前时间设定随机数种子
+		  *计算处理时间
+		  *星期的求法与日历
+		  *空指针和空指针常量
+		  *拼写相同的字符串常量
+		  *命令行参数
+		  struct tm 型
+		  time_t 型
+		  asctime 函数
+		  ctime 函数
+		  difftime 函数
+		  gmtime 函数
+		  localtime 函数
+		  mktime 函数
+		  sprintf 函数
+		  strcat 函数
+		  strcpy 函数
+		  time 函数
+          tolower 函数
+		  toupper 函数
+		  NULL
