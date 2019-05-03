@@ -121,3 +121,25 @@ chap06:日历
           tolower 函数
 		  toupper 函数
 		  NULL
+chap07:右脑训练
+	内容：*数组的复制
+		  *数组元素的重新排列
+		  *赋值运算符和逗号运算符
+		  *两个值的交换
+		  *函数宏
+		  *空语句
+		  *包含头文件保护的头文件的设计
+		  *可变参数的访问
+		  *多维数组的初始值
+		  *实时的键盘输入
+		  *Curses库
+		  va_list型
+		  va_arg宏
+		  va_end宏
+		  va_start宏
+		  vprintf函数
+		  vsprintf函数
+          getch函数 ×C语言的非标准库
+		  putch函数 ×C语言的非标准库 
+
+
