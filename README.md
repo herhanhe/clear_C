@@ -150,3 +150,32 @@ chap08:打字练习
 		  *生成与之前生成的随机数数值不同的随机数
 		  *表示键盘的字符串
 		  *从选项中进行多选
+chap09:文件处理
+	内容：*文件和流
+		  *标准流
+		  *缓冲区
+		  *重定向
+		  *文本文件
+		  *二进制文件
+		  FILE型
+		  fclose函数
+		  fflush函数
+		  fgetc函数
+		  fopen函数
+		  fprintf函数
+		  fputc函数
+		  fputs函数
+		  fread函数
+		  fscanf函数
+		  fwrite函数
+		  getchar函数
+		  setbuf函数
+		  setvbuf函数
+		  EOF
+		  stderr
+		  stdin
+		  stdout
+chap10:英语单词学习软件
+	内容：选项形式的学习软件
+		  为字符串数组动态分配空间（二维数组/指针数组）
+		  从文件中读取单词
